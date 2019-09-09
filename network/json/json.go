@@ -1,8 +1,8 @@
 package json
 
 import (
-	"beifen/leaf/chanrpc"
-	"beifen/leaf/log"
+	"github.com/xuexihuang/gonet/chanrpc"
+	"github.com/xuexihuang/gonet/log"
 	"encoding/json"
 	"errors"
 	"fmt"

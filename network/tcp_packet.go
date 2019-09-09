@@ -1,7 +1,7 @@
 package network
 
 import (
-	"beifen/leaf/log"
+	"github.com/xuexihuang/gonet/log"
 	"bytes"
 	"encoding/binary"
 	"io"

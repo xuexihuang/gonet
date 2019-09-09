@@ -1,9 +1,9 @@
 package gate
 
 import (
-	"beifen/leaf/chanrpc"
-	"beifen/leaf/log"
-	"beifen/leaf/network"
+	"github.com/xuexihuang/gonet/chanrpc"
+	"github.com/xuexihuang/gonet/log"
+	"github.com/xuexihuang/gonet/network"
 	"net"
 	"reflect"
 	"time"

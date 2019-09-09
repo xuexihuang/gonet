@@ -7,9 +7,9 @@ import (
 	"github.com/golang/protobuf/proto"
 	"math"
 	"reflect"
-	"server/leaf/chanrpc"
-	"server/leaf/log"
-	"server/leaf/network"
+	"github.com/xuexihuang/gonet/chanrpc"
+	"github.com/xuexihuang/gonet/log"
+	"github.com/xuexihuang/gonet/network"
 )
 
 // -------------------------

@@ -2,7 +2,7 @@ package network
 
 import (
 	"net"
-	"server/leaf/log"
+	"github.com/xuexihuang/gonet/log"
 	"sync"
 	"time"
 )

@@ -1,7 +1,7 @@
 package log_test
 
 import (
-	"server/leaf/log"
+	"github.com/xuexihuang/gonet/log"
 	l "log"
 )
 
